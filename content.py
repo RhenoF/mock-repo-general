@@ -1,1 +1,1 @@
-print("ndrqt")
+print("gmncq")
