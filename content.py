@@ -1,1 +1,1 @@
-print("skkqe")
+print("hloor")
