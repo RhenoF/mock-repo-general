@@ -1,1 +1,1 @@
-SELECT * from swmqe;
+SELECT * from cfonl;
