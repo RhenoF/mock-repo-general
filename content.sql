@@ -1,1 +1,1 @@
-SELECT * from rklim;
+SELECT * from swmqe;
